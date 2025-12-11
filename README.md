@@ -23,4 +23,5 @@ Teknologi dan Alat yang Digunakan
 ● MySQL: Untuk penyimpanan data. 
 ● AWS EC2: Untuk hosting aplikasi. 
 ● AWS RDS MySQL: Untuk hosting database. 
-  
+
+![Image Alt](https://github.com/Rianmontilalu/Chat-With-MySQL-Frontend/blob/7eb578d3d82acf2a4c8846f014ae5b9a70439742/Run%20Program.png)
